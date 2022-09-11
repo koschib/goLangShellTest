@@ -1,13 +1,9 @@
 package main
 
-// create a shell with os package and execute the command
-
 import (
 	"fmt"
 	"os/exec"
 )
-
-// shell function ls -l, ls, mkdir, cat, exit
 
 func shell() {
 
